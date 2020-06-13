@@ -18,10 +18,11 @@ def plot_histogram(sample, title, bins=16, **kwargs):
         any other keyword arguments for plotting (optional)
     """
     # TODO: Plot histogram
-
+    plt.title(title)
+    plt.hist(sample,bins)
     # TODO: show the plot
 
-    return
+    plt.show()
 
 
 def test_run():
