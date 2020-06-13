@@ -1,6 +1,5 @@
 # ai-trading-breeakout-strategy
 
-
 ### Setup
 1. Install Miniconda - https://docs.conda.io/en/latest/miniconda.html
 2. conda env remove -n ai_trading_env
